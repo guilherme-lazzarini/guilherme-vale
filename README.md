@@ -1,4 +1,5 @@
-### Olá, Eu sou o Guilherme Vale 👋
+### Hi, I'm Guilherme Vale 👋
+19 years old and Computer Engineering Student.
 
 <div>
  <a href="https://github.com/guilherme-vale">
