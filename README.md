@@ -1,7 +1,7 @@
 ### Olá, Eu sou o Guilherme 👋
 
 <div>
- <a href="https://beacons.ai/guilherme-vale">
+ <a href="https://github.com/guilherme-vale">
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilherme-vale&show_icons=true&theme=algolia"/>
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-vale&layout=compact&theme=algolia"/>
 </div>
