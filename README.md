@@ -1,5 +1,5 @@
 ### Hi, I'm Guilherme Lazzarini 👋
-22 years old and Computer Engineering.
+22 years old and Computer Engineer.
 
 <div>
  <a href="https://github.com/guilherme-vale">
